@@ -1,0 +1,61 @@
+.banner-container {
+    background-color: #E9DDF7;
+}
+
+.banner-column {
+    background-color: #7531FA;
+    text-align: centre;
+}
+
+.navbar-container {
+    background-color: #7531FA;
+    border: solid 1px black;
+    top: 0;
+    position: sticky;
+    z-index: 3;
+
+}
+
+.about-container {
+    background-color: #E9DDF7;
+    padding-top: 30;
+}
+
+.education-container {
+    background-color: #E9DDF7;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.contact-container {
+    background-color: #E9DDF7;
+}
+
+.form-bg-editing {
+    background-color: rgb(162, 219, 241);
+    border: solid 2px
+}
+
+.fun {
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    padding: 2;
+}
+
+.trainingCertification-container {
+    background-color: #E9DDF7;
+}
+
+.gallary-container{
+    background-color: #E9DDF7;
+}
+
+.skill-container{
+    background-color: #E9DDF7;
+    margin:auto;
+    padding: 3;
+}
